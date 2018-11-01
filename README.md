@@ -1,2 +1,63 @@
-# student-manage-servlet
-Student Information Management System
+# 学生信息管理系统                                                                                               ​                                                                                                    
+
+## 目的：
+
+* 方便对学生及班级信息进行处理
+
+## 技术与环境：                                                                                                  
+
+- 语言
+  - Java语言
+
+- 存储
+  - 关系型数据库MySQL
+
+- 技术点
+  -  Java
+  - JDBC
+  - Servlet + JSP
+  - HTML + CSS + JavaScript (前端技术)     
+- 环境
+  - JDK/JRE 1.8
+  - Linux Centos 7.2
+  - Tomcat 8.5.30
+  - Maven 3.5.0
+  - MySQL 5.7.21
+
+​    
+
+## 功能：
+
+#### 1. 帐号管理                                                                                                 
+
+* 登录
+* 注册
+* 退出
+
+#### 2. 班级管理                                                                                                
+
+* 添加
+* 删除
+* 修改
+* 查询
+
+#### 3. 学生管理                                                                                                
+
+* 添加
+* 删除
+* 修改
+* 查询
+* 查询班级列表（下拉菜单）
+
+
+
+## 实现
+
+* [一个Demo,点击查看效果](http://39.107.67.167:8080/)
+
+
+
+ 
+
+
+
